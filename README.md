@@ -1,4 +1,5 @@
-# Logic :
+# [Algorithm behind creating RGB Dictionary](https://github.com/imvickykumar999/Supernova-Colors/blob/master/Color%20Dictionary.py#L25)
+
 ## I used [color.csv](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/colors.csv) file to get rgb tuple using pandas and then used pygame's screen.fill(rgb) function to fill respective color on screen.
 
 <p align="center">
