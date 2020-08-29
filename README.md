@@ -36,7 +36,7 @@ example:
 }
 ```
 
-# Color Dictionary
+# RGB Tuple SORTED Color Dictionary
 
 {'black': (0, 0, 0),
  'navy_blue': (0, 0, 128),
