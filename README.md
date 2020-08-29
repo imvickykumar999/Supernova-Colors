@@ -1,7 +1,7 @@
 # Logic :
 ## I used [color.csv](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/colors.csv) file to get rgb tuple using pandas and then used pygame's screen.fill(rgb) function to fill respective color on screen.
 
-![](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/color.png)
+[![](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/color.png)](https://github.com/imvickykumar999/Supernova-Colors/blob/master/Supernova.py)
 
 ### Color Names
 ===========
