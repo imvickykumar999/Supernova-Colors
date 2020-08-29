@@ -38,6 +38,7 @@ example:
 
 # RGB Tuple SORTED Color Dictionary
 
+```
 {'black': (0, 0, 0),
  'navy_blue': (0, 0, 128),
  'dark_blue': (0, 0, 139),
@@ -803,4 +804,4 @@ example:
  'light_yellow': (255, 255, 224),
  'ivory': (255, 255, 240),
  'white': (255, 255, 255)}
- 
+ ```
