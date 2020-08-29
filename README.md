@@ -5,9 +5,6 @@
   <img src="https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/rb-example-start.gif" />
 </p>
 
-### Color Names
-===========
-
 #### CSV
 ---
 
