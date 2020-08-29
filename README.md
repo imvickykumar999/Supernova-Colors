@@ -7,40 +7,6 @@
 linkedin article screenshot...
 -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/supernova.gif" />
-</p>
-
-#### CSV
----
-
-Comma separated values for example to import into a spreadsheet utility.
-Looks like:
-
-```csv
-...
-red,"Red",#f00,255,0,0
-...
-```
-
-#### JSON
-----
-
-JavaScript Object Notation, looks like a JS or Python data structure, for
-example:
-
-```js
-{
-  ...
-  "red": {
-    "name": "Red",
-    "hex": "#f00",
-    "rgb": [255, 0, 0]
-  }
-  ...
-}
-```
-
 # [RGB Tuple SORTED Color Dictionary](https://github.com/imvickykumar999/Supernova-Colors/blob/master/colors.txt)
 
 ```
