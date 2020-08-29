@@ -2,6 +2,10 @@
 
 ## I used [color.csv](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/colors.csv) file to get rgb tuple using pandas and then used pygame's screen.fill(rgb) function to fill respective color on screen.
 
+<!--
+linkedin article screenshot...
+-->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/rb-example-start.gif" />
 </p>
