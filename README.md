@@ -8,7 +8,7 @@ linkedin article screenshot...
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/supernova.gif" />
+  <img src="https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/supernova.gif"/>
 </p>
 
 # [RGB Tuple SORTED Color Dictionary](https://github.com/imvickykumar999/Supernova-Colors/blob/master/colors.txt)
