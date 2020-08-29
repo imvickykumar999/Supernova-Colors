@@ -7,7 +7,7 @@ linkedin article screenshot...
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/rb-example-start.gif" />
+  <img src="https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/supernova.gif" />
 </p>
 
 #### CSV
