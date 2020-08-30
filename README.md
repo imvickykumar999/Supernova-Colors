@@ -12,6 +12,8 @@ linkedin article screenshot...
 
 [![Colab](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/colab.jpg)](https://github.com/imvickykumar999/Supernova-Colors/blob/master/Supernova.ipynb)
 
+![Men Will be Men](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/Inkedimperial_blue_LI.jpg)
+
 # [RGB Tuple SORTED Color Dictionary](https://github.com/imvickykumar999/Supernova-Colors/blob/master/colors.txt)
 
 ```
