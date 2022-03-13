@@ -1,5 +1,18 @@
 # [Algorithm behind creating RGB Dictionary](https://github.com/imvickykumar999/Supernova-Colors/blob/master/Color%20Dictionary.py#L25)
 
+## Converting Image to Shuffled Value of Key Pixel Coordinats
+
+-----------------------------------
+
+<table>
+  <tr>
+    <td> <img src="https://github.com/imvickykumar999/Supernova-Colors/blob/master/Image%20Encryption/pp.jpg?raw=true" width = 340px height = 340px ></td>
+    <td><img src="https://github.com/imvickykumar999/Supernova-Colors/blob/master/Image%20Encryption/random_pp.jpg?raw=true" width = 340px height = 340px></td>
+  </tr>
+</table>
+
+-----------------------------------
+
 ## I used [color.csv](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/colors.csv) file to get rgb tuple using pandas and then used pygame's screen.fill(rgb) function to fill respective color on screen.
 
 <!--
@@ -10,9 +23,15 @@ linkedin article screenshot...
   <img src="https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/supernova.gif"/>
 </p>
 
+-----------------------------------------------
+
 [![Colab](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/colab.jpg)](https://github.com/imvickykumar999/Supernova-Colors/blob/master/Supernova.ipynb)
 
+-----------------------------------------------
+
 ![Men Will be Men](https://raw.githubusercontent.com/imvickykumar999/Supernova-Colors/master/Inkedimperial_blue_LI.jpg)
+
+-----------------------------------------------------
 
 # [RGB Tuple SORTED Color Dictionary](https://github.com/imvickykumar999/Supernova-Colors/blob/master/colors.txt)
 
