@@ -1,6 +1,6 @@
 # [Algorithm behind creating RGB Dictionary](https://github.com/imvickykumar999/Supernova-Colors/blob/master/Color%20Dictionary.py#L25)
 
-## Converting Image to Shuffled Value of Key Pixel Coordinats
+## >>> Converting Image to Shuffled Value of Key Pixel Coordinats using [random_pixel.py](https://github.com/imvickykumar999/Supernova-Colors/blob/master/Image%20Encryption/random_pixel.py)
 
 -----------------------------------
 
