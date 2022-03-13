@@ -29,6 +29,7 @@ side = width, height = img.size
 vjs = zero_json.values()
 kjs = zero_json.keys()
 sort_vjs = list(vjs)
+sort_kjs = list(kjs)
 
 # ----------------------------
 
@@ -39,12 +40,13 @@ sort_vjs = list(vjs)
 
 # ----------------------------
 
-# random.shuffle(sort_vjs)
-sort_vjs.sort()
+random.shuffle(sort_vjs)
+# sort_vjs.sort()
+# sort_kjs.sort()
 
 # -----------------------------
 
-ones_json = dict(zip(kjs, sort_vjs))
+ones_json = dict(zip(sort_kjs, sort_vjs))
 data = np.ones((height, width, 3), dtype=np.uint8)
 
 for x in range(height):
