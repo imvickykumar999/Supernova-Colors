@@ -15,8 +15,8 @@ for x in range(width):
         r, g, b = I[y][x]
         zero_json.update({ f'{x},{y}' : f'{r},{g},{b}' })
 
-with open(png_file + '_.json', 'w') as fp:
-    json.dump(zero_json, fp) 
+# with open(png_file + '_.json', 'w') as fp:
+#     json.dump(zero_json, fp) 
 
 img = Image.open(png_file)
 I = np.asarray(img)
@@ -60,7 +60,7 @@ sort_vjs = ob.solve(sort_vjs)
 
 # ----------------------------
 
-random.shuffle(sort_vjs)
+# random.shuffle(sort_vjs)
 # sort_vjs.sort()
 # sort_kjs.sort()
 

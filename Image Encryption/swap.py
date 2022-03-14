@@ -1,6 +1,6 @@
 import numpy as np
 from PIL import Image
-import random, json
+# import random, json
 
 png_file = 'test.png'
 img = Image.open(png_file)
@@ -27,17 +27,20 @@ sort_kjs = list(kjs)
 
 # ----------------------------
 
-# d = {v : i for i, v in enumerate(sort_vjs)}
-# from pprint import pprint as p
-# p(d)
+# class Solution:
+#    def solve(self, nums):
+#       length = len(nums)
+#       for i in range(0,length,4):
+#          if(i+2<length):
+#             nums[i], nums[i+2] = nums[i+2], nums[i]
+#          if(i+3<length):
+#             nums[i+1], nums[i+3] = nums[i+3], nums[i+1]
+#       return nums
 
-# sort_vjs = sorted(sort_vjs, key=len)
+# ob = Solution()
+# sort_vjs = ob.solve(sort_vjs)
 
-# up = {}
-# for i in range(len(sort_vjs)):
-#     up.update({sort_vjs[i] : d[sort_vjs[i]]})
-
-# print(d==up)
+sort_vjs = sorted(sort_vjs, key=len)
 
 # -----------------------------
 
