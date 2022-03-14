@@ -2,7 +2,7 @@ import numpy as np
 from PIL import Image
 import random, json
 
-png_file = ['zero.png', 'pp.jpg'][1]
+png_file = ['zero.png', 'pp.jpg', 'test.png'][2]
 img = Image.open(png_file)
 I = np.asarray(img)
 
@@ -40,6 +40,20 @@ sort_kjs = list(kjs)
 
 # ----------------------------
 
+class Solution:
+   def solve(self, nums):
+      length = len(nums)
+      for i in range(0,length,4):
+         if(i+2<length):
+            nums[i], nums[i+2] = nums[i+2], nums[i]
+         if(i+3<length):
+            nums[i+1], nums[i+3] = nums[i+3], nums[i+1]
+      return nums
+ob = Solution()
+sort_vjs = ob.solve(sort_vjs)
+
+# ----------------------------
+
 random.shuffle(sort_vjs)
 # sort_vjs.sort()
 # sort_kjs.sort()
@@ -61,7 +75,7 @@ for x in range(height):
         
 img = Image.fromarray(data, 'RGB')
 # img.save('edited.png')
-img.save('random_' + png_file)
+img.save('test.png')
 
 side = width, height = img.size
 print(side)
